@@ -1,0 +1,8 @@
+{"sessionId":"22c8c9","location":"frontend/src/index.ts:listen","message":"Frontend server started","data":{"port":5173,"url":"http://localhost:5173/"},"timestamp":1781474369541,"hypothesisId":"H1","runId":"post-fix"}
+{"sessionId":"22c8c9","location":"frontend/src/index.ts:listen","message":"Frontend server started","data":{"port":5173,"url":"http://localhost:5173/"},"timestamp":1781474465970,"hypothesisId":"H1","runId":"post-fix"}
+{"sessionId":"22c8c9","location":"frontend/src/index.ts:listen","message":"Frontend server started","data":{"port":5173,"url":"http://localhost:5173/"},"timestamp":1781474469822,"hypothesisId":"H1","runId":"post-fix"}
+{"sessionId":"22c8c9","location":"frontend/src/index.ts:listen","message":"Frontend server started","data":{"port":53,"url":"http://localhost:5173/"},"timestamp":1781474513530,"hypothesisId":"H1","runId":"post-fix"}
+{"sessionId":"22c8c9","location":"frontend/src/index.ts:listen","message":"Frontend server started","data":{"port":5713,"url":"http://localhost:5173/"},"timestamp":1781474514752,"hypothesisId":"H1","runId":"post-fix"}
+{"sessionId":"22c8c9","location":"frontend/src/index.ts:listen","message":"Frontend server started","data":{"port":5713,"url":"http://localhost:5713/"},"timestamp":1781474517772,"hypothesisId":"H1","runId":"post-fix"}
+{"sessionId":"22c8c9","location":"frontend/src/index.ts:listen","message":"Frontend server started","data":{"port":5713,"url":"http://localhost:5173/"},"timestamp":1781474561351,"hypothesisId":"H1","runId":"post-fix"}
+{"sessionId":"22c8c9","location":"frontend/src/index.ts:listen","message":"Frontend server started","data":{"port":5173,"url":"http://localhost:5173/"},"timestamp":1781474564429,"hypothesisId":"H1","runId":"post-fix"}
