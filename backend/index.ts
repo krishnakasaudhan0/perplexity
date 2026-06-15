@@ -8,11 +8,6 @@ import { prisma } from "./db";
 import { requireAuth } from "./middleware";
 import cors from "cors";
 
-// #region agent log
-const debugLog = (location: string, message: string, data: Record<string, unknown>, hypothesisId: string) => {
-  fetch('http://127.0.0.1:7833/ingest/7f676e1c-b05f-4680-8c7d-f7380404a8f7',{method:'POST',headers:{'Content-Type':'application/json','X-Debug-Session-Id':'22c8c9'},body:JSON.stringify({sessionId:'22c8c9',location,message,data,timestamp:Date.now(),hypothesisId})}).catch(()=>{});
-};
-// #endregion
 
 const client = tavily({
   apiKey: process.env.TAVILY_API_KEY,
